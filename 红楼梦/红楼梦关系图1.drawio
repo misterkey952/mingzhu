@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-02T09:52:17.083Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="5fJxJgeZBsXdhzZVaT9V" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-03T02:33:47.237Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="SLVCVvRpczPlh4EHoA4G" version="22.1.16" type="github">
   <diagram name="Page-1" id="Ep9QOVcMTnSpIJEs8LK5">
-    <mxGraphModel dx="4687" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6066" dy="1865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -137,19 +137,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ub61VKP5db7Y0_wZyz6B-52" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;正妻&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="710" width="80" height="60" as="geometry" />
+          <mxGeometry x="530" y="710.5" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ub61VKP5db7Y0_wZyz6B-55" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;王夫人&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="477" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="900" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ub61VKP5db7Y0_wZyz6B-58" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;贾珠&lt;br&gt;（死）&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="63.000000000000455" y="989.9999999999995" width="120" height="60" as="geometry" />
+          <mxGeometry x="260.00000000000045" y="989.9999999999995" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ub61VKP5db7Y0_wZyz6B-60" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;贾元春&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="229.30769230769238" y="979.9999999999995" width="120" height="80" as="geometry" />
+          <mxGeometry x="509.9976923076924" y="979.9999999999995" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ub61VKP5db7Y0_wZyz6B-62" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;贾宝玉&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390.00000000000045" y="989.9999999999995" width="120" height="60" as="geometry" />
+          <mxGeometry x="820.0000000000005" y="999.9999999999995" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ub61VKP5db7Y0_wZyz6B-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Ub61VKP5db7Y0_wZyz6B-63" target="Ub61VKP5db7Y0_wZyz6B-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -233,8 +233,28 @@
         <mxCell id="Ub61VKP5db7Y0_wZyz6B-93" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;邢氏&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="-1340" y="710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Wx3JRDpjjMe_tHbaAGEB-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;祖宗&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Wx3JRDpjjMe_tHbaAGEB-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;祖宗&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="18Bgfcr8O1GYCSpPIe0D-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;李纨&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="980" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="18Bgfcr8O1GYCSpPIe0D-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="18Bgfcr8O1GYCSpPIe0D-2" target="Ub61VKP5db7Y0_wZyz6B-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="18Bgfcr8O1GYCSpPIe0D-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="18Bgfcr8O1GYCSpPIe0D-2" target="18Bgfcr8O1GYCSpPIe0D-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="18Bgfcr8O1GYCSpPIe0D-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="18Bgfcr8O1GYCSpPIe0D-2" target="18Bgfcr8O1GYCSpPIe0D-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="1170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18Bgfcr8O1GYCSpPIe0D-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;夫妻&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="985" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="18Bgfcr8O1GYCSpPIe0D-6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;贾兰&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
